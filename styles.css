@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(93, 150, 107);
+}
+h1 {
+    text-align: center;
+    font-size: 67px;
+    font: bolder;
+    color: rgb(110, 17, 10);
+    font-family: 'Comforter', cursive;
+}
+h2 {
+    text-align: center;
+    font-size: 32px;
+    color: rgb(110, 17, 10);
+    font-family: 'Comforter', cursive;
+}
+img {
+    margin: 20px;
+    width: 700px;
+    height: 450px;
+}
+.first-car {
+    text-align: left;
+    font-size: 30px;
+    margin-left: 20px;
+}
+hr {
+    border-color: yellow;
+    width: 1600px;
+}
+.white-car {
+    height: 400px;
+}
+h3 {
+    margin-top: 300px;
+    font-family: 'Comforter', cursive;
+    font-size: 25px;
+}
+.anime-character {
+    border-radius: 250px;
+    width: 120px;
+    height:100px;
+    flex-direction: row;
+    float: left;
+    margin-top: -100px;
+    margin-left: 400px;
+}
