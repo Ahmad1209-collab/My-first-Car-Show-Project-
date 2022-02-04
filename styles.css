@@ -55,14 +55,16 @@ button {
     margin-left: 1%;
     background-color: rgb(84, 177, 120);
     text-decoration: none;
+    font-family: 'Source Serif 4', sans-serif;
 }
 .Price {
-    margin-left:70%;
+    margin-left:69%;
     font-size: 40px;
     text-decoration: none;
     border: 2px solid rgb(233, 6, 6);
     border-radius: 20px;
     border-width: 5px;
+    font-family: 'Source Serif 4', sans-serif;
 }
 .Contact {
     font-size: 40px;
@@ -72,6 +74,7 @@ button {
     border: 2px solid rgb(233, 6, 6);
     border-radius: 20px;
     border-width: 5px;
+    font-family: 'Source Serif 4', sans-serif;
 }
 
 /* header */
