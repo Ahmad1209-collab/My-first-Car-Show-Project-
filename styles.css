@@ -1,7 +1,7 @@
 /* header */
 h1 {
     text-align: center;
-    font-size: 60px;
+    font-size: 70px;
     font: bolder;
     color: rgb(110, 17, 10);
     font-family: 'Comforter', cursive;
@@ -9,15 +9,15 @@ h1 {
 }
 .logo {
     float: left;
-    width: 120px;
-    height: 110px;
+    width: 90px;
+    height: 80px;
     border-radius: 60px;
 }
 .Company-name {
     color: rgb(103, 33, 214);
     font-size: 30px;
-    margin-top: -80px;
-    margin-left: 0px;
+    margin-top: -120px;
+    margin-left: 120px;
     @media (min-width: 992px)
 }
 button {
@@ -67,19 +67,22 @@ h3 {
 }
 /* body */
 /* footer */
-.anime-character {
-    border-radius: 250px;
-    width: 120px;
-    height:100px;
-    flex-direction: row;
-    margin-left: 20px;
-    margin-bottom: 40px;
-    float: left;
-}
+
 .Facebook {
     width: 200px;
     height: 200px;
     float: right;
     margin-bottom: auto 20px, 200px;
+}
+.Author {
+    margin-top: 65px;
+    float: right;
+    margin-right: 860px;
+    font-size: 40px;
+}
+.Logo-footer {
+    border-radius: 100px;
+    width: 160px;
+    height: 150px;
 }
 /* footer */
