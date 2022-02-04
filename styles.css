@@ -18,7 +18,7 @@ h1 {
 .Company-name {
     color: rgb(103, 33, 214);
     font-size: 30px;
-    margin-top: -120px;
+    margin-top: -210px;
     margin-left: 160px;
     @media (min-width: 992px)
 }
@@ -31,17 +31,51 @@ button {
     margin-top: 130px;
     border-radius: 20px;;
 }
-button:hover {
+.Gallery:hover {
     color: red;
 }
-button:visited {
-    color: Green;
+.Price:hover {
+    color:red;
 }
+.Contact:hover {
+    color:red;
+}
+.My:hover {
+    color:red;
+}
+.Car-showroom:hover {
+    color:yellow;
+}
+.Gallery {
+    margin-top: 40%;
+    font-size: 40px;
+    border: 2px solid rgb(233, 6, 6);
+    border-radius: 20px;
+    border-width: 5px;
+    margin-left: 1%;
+    background-color: rgb(84, 177, 120);
+    text-decoration: none;
+}
+.Price {
+    margin-left:70%;
+    font-size: 40px;
+    text-decoration: none;
+    border: 2px solid rgb(233, 6, 6);
+    border-radius: 20px;
+    border-width: 5px;
+}
+.Contact {
+    font-size: 40px;
+    margin-bottom: auto;
+    margin-left: 1%;
+    text-decoration: none;
+    border: 2px solid rgb(233, 6, 6);
+    border-radius: 20px;
+    border-width: 5px;
+}
+
 /* header */
 /* Body*/
-h1:hover {
-    color: blue;
-}
 h2 {
     text-align: center;
     font-size: 50px;
@@ -50,13 +84,14 @@ h2 {
     @media (min-width: 992px)
 }
 body {
-    background-color: rgb(249, 253, 4);
+    background-color: rgb(84, 177, 120);
 }
 img {
     margin: 20px;
     width: 600px;
     height: 300px;
-    margin-left: 100px;
+    margin-left: 50px;
+    background-color: yellow;
 }
 .first-car {
     text-align: center;
@@ -92,5 +127,8 @@ div {
     border-radius: 360px;
     float: left;
     margin-left: 30px;
+}
+.facebook {
+    background-color: yellow;
 }
 /* footer */
