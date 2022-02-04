@@ -25,10 +25,11 @@ h1 {
 button {
     float: right;
     background-color: rgb(249, 253, 4);
-    font-size: 30px;
+    font-size: 35px;
     margin-right: 30px;
     border-color: yellow;
     margin-top: 130px;
+    border-radius: 20px;;
 }
 button:hover {
     color: red;
