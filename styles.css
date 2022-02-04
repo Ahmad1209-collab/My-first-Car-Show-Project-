@@ -12,12 +12,13 @@ h1 {
     width: 90px;
     height: 80px;
     border-radius: 60px;
+    margin-left: 50px;
 }
 .Company-name {
     color: rgb(103, 33, 214);
     font-size: 30px;
     margin-top: -120px;
-    margin-left: 120px;
+    margin-left: 170px;
     @media (min-width: 992px)
 }
 button {
@@ -25,6 +26,7 @@ button {
     background-color: rgb(249, 253, 4);
     font-size: 30px;
     margin-right: 30px;
+    border-color: yellow;
 }
 /* header */
 /* Body*/
@@ -42,6 +44,7 @@ img {
     margin: 20px;
     width: 600px;
     height: 300px;
+    margin-left: 100px;
 }
 .first-car {
     text-align: center;
@@ -50,7 +53,7 @@ img {
 }
 hr {
     border-color: rgb(255, 0, 0);
-    width: 80%;
+    width: 95%;
     height: 15px;
     background-color: rgb(47, 165, 57);
     margin-top: 100px;
@@ -65,6 +68,9 @@ h3 {
     font-size: 25px;
     float: left;
 }
+div {
+    text-align: center;
+}
 /* body */
 /* footer */
 
@@ -74,15 +80,11 @@ h3 {
     float: right;
     margin-bottom: auto 20px, 200px;
 }
-.Author {
-    margin-top: 65px;
-    float: right;
-    margin-right: 860px;
-    font-size: 40px;
-}
 .Logo-footer {
-    border-radius: 100px;
-    width: 160px;
-    height: 150px;
+    width: 155px;
+    height: 140px;
+    border-radius: 360px;
+    float: left;
+    margin-left: 30px;
 }
 /* footer */
