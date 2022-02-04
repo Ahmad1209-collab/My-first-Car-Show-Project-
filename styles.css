@@ -1,6 +1,7 @@
 /* header */
 h1 {
     text-align: center;
+    text-decoration: brown;
     font-size: 70px;
     font: bolder;
     color: rgb(110, 17, 10);
@@ -18,7 +19,7 @@ h1 {
     color: rgb(103, 33, 214);
     font-size: 30px;
     margin-top: -120px;
-    margin-left: 170px;
+    margin-left: 160px;
     @media (min-width: 992px)
 }
 button {
@@ -27,12 +28,22 @@ button {
     font-size: 30px;
     margin-right: 30px;
     border-color: yellow;
+    margin-top: 130px;
+}
+button:hover {
+    color: red;
+}
+button:visited {
+    color: Green;
 }
 /* header */
 /* Body*/
+h1:hover {
+    color: blue;
+}
 h2 {
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     color: rgb(110, 17, 10);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
