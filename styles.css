@@ -4,7 +4,7 @@ h1 {
     text-decoration: brown;
     font-size: 70px;
     font: bolder;
-    color: rgb(110, 17, 10);
+    color: rgb(240, 25, 10);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
 }
@@ -18,31 +18,34 @@ h1 {
 .Company-name {
     color: rgb(103, 33, 214);
     font-size: 30px;
-    margin-top: -210px;
+    margin-top: -250px;
     margin-left: 160px;
     @media (min-width: 992px)
 }
 .Gallery {
     font-size: 40px;
     border-radius: 10px;
-    background-color: rgb(84, 177, 120);
-    border-color: rgb(84, 177, 120);
-    margin-left: 75%;
+    background: linear-gradient(to right, red, yellow);
+    border-color: rgb(237, 174, 14);
+    margin-left: 73%;
     margin-bottom: -90px;
+    border-width: 9px;
 }
 .Price {
     font-size: 40px;
     border-radius: 10px;
-    background-color: rgb(84, 177, 120);
-    border-color: rgb(84, 177, 120);
+    background: linear-gradient(to right, red, yellow);
     margin-left: 15px;
+    border-color: rgb(237, 174, 14);
+    border-width: 9px;
 }
 .Contact {
     font-size: 40px;
     border-radius: 10px;
-    background-color: rgb(84, 177, 120);
-    border-color: rgb(84, 177, 120);
+    background: linear-gradient(to right, red, yellow);
     margin-left: 15px;
+    border-color: rgb(237, 174, 14);
+    border-width: 9px;
 }
 .Gallery:hover {
     color: purple;
@@ -106,7 +109,7 @@ h1 {
 h2 {
     text-align: center;
     font-size: 50px;
-    color: rgb(110, 17, 10);
+    color: rgb(216, 23, 10);
     font-family: 'Comforter', cursive;
 font-family: 'Source Serif 4', sans-serif;
     @media (min-width: 992px)
@@ -119,21 +122,30 @@ font-family: 'Source Serif 4', sans-serif;
     margin-left: 80%;
     margin-top: -400px;
     border-radius: 80px;
+    margin-right: 100px;
 }
 .Bugatti-Biography {
     float: left;
     font-size: 40px;
-    font-family: 'Comforter', cursive;
     font-family: 'Source Serif 4', sans-serif;
     margin-top: 200px;
-    margin-right: 1100px;
-    display: inline-block;
+    margin-right: 1300px;
+    margin-left: 100px;
 }
 .white-car {
     width: 1100px;
     height: 700px;
-    margin-left:50px;
+    margin-left:100px;
     border-radius: 80px;
+    margin-top: -450px;
+}
+.Lykon-Biography {
+    font-family: 'Source Serif 4', sans-serif;
+    float: right;
+    font-size: 40px;
+    margin-left: 1300px;
+    margin-top: 200px;
+    margin-right: 100px;
 }
 .Blue-ford {
     width: 1100px;
