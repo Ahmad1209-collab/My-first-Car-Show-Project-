@@ -108,25 +108,28 @@ h2 {
     font-size: 50px;
     color: rgb(110, 17, 10);
     font-family: 'Comforter', cursive;
+font-family: 'Source Serif 4', sans-serif;
     @media (min-width: 992px)
 }
 .Bugatti {
     float:left;
+    flex-direction: row;
+}
+.Biography {
+    float: left;
+    font-size: 40px;
+    font-family: 'Comforter', cursive;
+font-family: 'Source Serif 4', sans-serif;
+}
+.Red-Car {
+    float: left;
+    text-align: center;
+}
+.img {
+    text-align: center;
 }
 body {
     background-color: rgb(84, 177, 120);
-}
-img {
-    margin: 20px;
-    width: 600px;
-    height: 300px;
-    margin-left: 50px;
-    background-color: yellow;
-}
-.first-car {
-    text-align: center;
-    font-size: 50px;
-    margin-left: 20px;
 }
 hr {
     border-color: rgb(255, 0, 0);
@@ -134,10 +137,6 @@ hr {
     height: 15px;
     background-color: rgb(47, 165, 57);
     margin-top: 100px;
-}
-.white-car {
-    height: 300px;
-    width: 600px;
 }
 h3 {
     margin-top: 300px;
