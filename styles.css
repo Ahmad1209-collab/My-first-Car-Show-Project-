@@ -201,10 +201,6 @@ font-family: 'Source Serif 4', sans-serif;
     margin-left:50px;
     border-radius: 80px;
 }
-.img {
-    text-align: center;
-    width: 300px;
-}
 body {
     background: linear-gradient(to right, red, blue, yellow);
 }
@@ -220,9 +216,6 @@ h3 {
     font-family: 'Comforter', cursive;
     font-size: 25px;
     float: left;
-}
-div {
-    text-align: center;
 }
 /* body */
 /* footer */
