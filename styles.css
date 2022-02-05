@@ -22,61 +22,85 @@ h1 {
     margin-left: 160px;
     @media (min-width: 992px)
 }
-button {
-    float: right;
-    background-color: rgb(249, 253, 4);
-    font-size: 35px;
-    margin-right: 30px;
-    border-color: yellow;
-    margin-top: 130px;
-    border-radius: 20px;;
-}
-.Gallery:hover {
-    color: red;
-}
-.Price:hover {
-    color:red;
-}
-.Contact:hover {
-    color:red;
-}
-.My:hover {
-    color:red;
-}
-.Car-showroom:hover {
-    color:yellow;
-}
 .Gallery {
-    margin-top: 40%;
     font-size: 40px;
-    border: 2px solid rgb(233, 6, 6);
-    border-radius: 20px;
-    border-width: 5px;
-    margin-left: 1%;
+    border-radius: 10px;
     background-color: rgb(84, 177, 120);
-    text-decoration: none;
-    font-family: 'Source Serif 4', sans-serif;
+    border-color: rgb(84, 177, 120);
+    margin-left: 75%;
+    margin-bottom: -90px;
 }
 .Price {
-    margin-left:69%;
     font-size: 40px;
-    text-decoration: none;
-    border: 2px solid rgb(233, 6, 6);
-    border-radius: 20px;
-    border-width: 5px;
-    font-family: 'Source Serif 4', sans-serif;
+    border-radius: 10px;
+    background-color: rgb(84, 177, 120);
+    border-color: rgb(84, 177, 120);
+    margin-left: 15px;
 }
 .Contact {
     font-size: 40px;
-    margin-bottom: auto;
-    margin-left: 1%;
-    text-decoration: none;
-    border: 2px solid rgb(233, 6, 6);
-    border-radius: 20px;
-    border-width: 5px;
-    font-family: 'Source Serif 4', sans-serif;
+    border-radius: 10px;
+    background-color: rgb(84, 177, 120);
+    border-color: rgb(84, 177, 120);
+    margin-left: 15px;
 }
-
+.Gallery:hover {
+    color: purple;
+}
+.Price:hover {
+    color: purple;
+}
+.Contact:hover {
+    color: purple;
+}
+.Gallery:visited {
+    color: blue;
+}
+.Contact:visited {
+    color: blue;
+}
+.Price:visited {
+    color: blue;
+}
+.M:hover {
+    color: red;
+}
+.Y:hover {
+    color: blue;
+}
+.C:hover {
+    color:Green;
+}
+.A:hover {
+    color:Yellow;
+}
+.R:hover {
+    color:Orange;
+}
+.S:hover {
+    color:Purple;
+}
+.H:hover {
+    color:Pink;
+}
+.O:hover {
+    color:Violet;
+}
+.W:hover {
+    color:White;
+}
+.one:hover {
+    color:Red;
+}
+.two:hover {
+    color:Blue;
+}
+.three:hover {
+    color:Yellow;
+}
+.four:hover {
+    color: green;
+}
 /* header */
 /* Body*/
 h2 {
@@ -85,6 +109,9 @@ h2 {
     color: rgb(110, 17, 10);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
+}
+.Bugatti {
+    float:left;
 }
 body {
     background-color: rgb(84, 177, 120);
