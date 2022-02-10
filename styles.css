@@ -8,6 +8,52 @@ h1 {
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
 }
+.title:hover
+{
+    transform: scale(1.1);
+}
+.Lyken-N:hover
+{
+    transform: scale(1.2);
+    transform-style: flat;
+    transform-origin: center;
+}
+.Ford-N:hover
+{
+    transform: scale(1.2);
+}
+.Corvette-N:hover
+{
+    transform: scale(1.2);
+}
+.Jesko-N:hover
+{
+    transform: scale(1.2);
+}
+.Charger-N:hover
+{
+    transform: scale(1.2);
+}
+.Mclaren-N:hover
+{
+    transform: scale(1.2);
+}
+.Devel-N:hover
+{
+    transform: scale(1.2);
+}
+.AMG-N:hover
+{
+    transform: scale(1.2);
+}
+.GTR-N:hover
+{
+    transform: scale(1.2);
+}
+.Bugatti-N:hover
+{
+    transform: scale(1.2);
+}
 .logo {
     float: left;
     width: 90px;
@@ -288,7 +334,7 @@ font-family: 'Source Serif 4', sans-serif;
     height: 700px;
     margin-left:100px;
     border-radius: 80px;
-    margin-top: 300px;
+    margin-top: -600px;
 }
 .Corvete-Biography {
     font-size: 40px;
@@ -321,7 +367,7 @@ font-family: 'Source Serif 4', sans-serif;
     height: 700px;
     margin-left:50px;
     border-radius: 80px;
-    margin-top: 300px;
+    margin-top: -500px;
 }
 .Hellcat-Biography {
     font-size: 40px;
@@ -421,6 +467,113 @@ font-family: 'Source Serif 4', sans-serif;
     color: rgb(16, 95, 27);
     font-size-adjust: 50px;
 }
+.Bugatti-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 25%;
+    margin-bottom: -80px;
+}
+.Ford-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 30%; 
+    margin-bottom: -80px;
+    margin-top: 100px;
+}
+.Corvette-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 60%;
+    margin-bottom: -80px;
+    margin-top: 900px;
+}
+.Jesko-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 30%; 
+    margin-bottom: -80px;
+}
+.Charger-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 60%;
+    margin-bottom: -80px;
+    margin-top: 900px;
+}
+.Maclaren-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 30%; 
+    margin-bottom: -80px;
+}
+.Devel-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 60%;
+    margin-bottom: -80px;
+    margin-top: 900px;
+}
+.AMG-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 15%; 
+    margin-bottom: -80px;
+    margin-top: 900px;
+}
+.GTR-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 60%;
+    margin-bottom: -80px;
+    margin-top: 900px;
+}
+.Lyken-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 60%;
+    margin-bottom: -80px;
+    margin-top: 800px;
+}
+.Mclaren-N {
+    font-size: 90px;
+    color: white;
+    margin-left: 30%; 
+    margin-bottom: -80px;
+    margin-top: 100px;
+}
+.Bugatti-N:hover {
+    color: red;
+}
+.Lyken-N:hover {
+    color: red;
+}
+.Ford-N:hover {
+    color: red;
+}
+.Jesko-N:hover {
+    color: red;
+}
+.Devel-N:hover {
+    color: red;
+}
+.AMG-N:hover {
+    color: red;
+}
+.GTR-N:hover {
+    color: red;
+}
+.Mclaren-N:hover {
+    color: red;
+}
+.Charger-N:hover {
+    color: red;
+}
+.Corvette-N:hover {
+    color: red;
+}
+.Bugatti-N:hover {
+    color: red;
+}
 .Lyken-name:hover{
     color: rgb(150, 79, 79);
 }
@@ -469,11 +622,23 @@ h3 {
     float: center;
     margin-left: 49%;
     margin-right: 45%;
-    margin-bottom: -180px;
+    margin-bottom: -160px;
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
-    width: 400px;
-    margin-left: 35%;
+    width: 175px;
+    margin-left: 43%;
+    box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
+}
+.Instagram-Account-mine {
+    border-radius: 2000px;
+    width: 175px;
+    margin-left: 50%;
+    box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
+}
+.Instagram-Account-mine:hover
+{
+    transform: scale(1.2);
+    box-shadow: 0 30px 45px -15px rgba(0,111,255,0.6);
 }
 /* footer */
