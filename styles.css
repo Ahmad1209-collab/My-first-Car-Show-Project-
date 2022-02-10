@@ -4,10 +4,9 @@ h1 {
     text-decoration: brown;
     font-size: 170px;
     font: bolder;
-    color: rgb(240, 25, 10);
+    color: rgb(255, 255, 255);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
-    margin-bottom: -200px;
 }
 .logo {
     float: left;
@@ -16,63 +15,175 @@ h1 {
     border-radius: 60px;
     margin-left: 50px;
 }
+hr {
+    background: linear-gradient(to right, red, blue, yellow);
+    width: 95%;
+    height: 15px;
+    background-color: rgb(47, 165, 57);
+    margin-top: 600px;
+}
 .Company-name {
     color: rgb(103, 33, 214);
-    font-size: 30px;
-    margin-top: -550px;
+    font-size: 40px;
+    margin-top: -740px;
     margin-left: 160px;
     @media (min-width: 992px)
 }
-.Bugatti {
-    font-size: 40px;
+.Bugatti-b {
+    font-size: 50px;
     border-radius: 10px;
-    background: linear-gradient(to right, red, yellow);
-    border-color: rgb(237, 174, 14);
-    margin-left: 73%;
-    margin-bottom: -90px;
-    border-width: 9px;
+    background-color: black;
+    margin-left: 3%;
+    margin-top: 200px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Price {
-    font-size: 40px;
+.Lyken-Hypersport-a {
+    font-size: 50px;
     border-radius: 10px;
-    background: linear-gradient(to right, red, yellow);
+    background-color: black;
     margin-left: 15px;
-    border-color: rgb(237, 174, 14);
-    border-width: 9px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Contact {
-    font-size: 40px;
+.Ford-GT-c {
+    font-size: 50px;
     border-radius: 10px;
-    background: linear-gradient(to right, red, yellow);
+    background-color: black;
     margin-left: 15px;
-    border-color: rgb(237, 174, 14);
-    border-width: 9px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Test {
-    border-color: red;
-    max-width: 4000px;
-    color: red;
+.Corvette {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15xp;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Gallery:hover {
-    color: yellow;
+.Koenigsegg-J {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Price:hover {
-    color: purple;
+.Dodge-a {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Contact:hover {
-    color: purple;
+.Maclaren {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Gallery:visited {
-    color: red;
+.Devel {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Contact:visited {
-    color: blue;
+.Mercedes {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
 }
-.Price:visited {
-    color: blue;
+.Mclaren-GTR {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+    margin-right: 5%;
 }
+
+.Bugatti-b:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Lyken-Hypersport-a:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Ford-GT-c:hover {
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to right, red, blue, yellow);
+}
+.Corvette:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Koenigsegg-J:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Dodge-a:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Maclaren:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Devel:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Mercedes:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+.Mclaren-GTR:hover {
+    background: linear-gradient(to right, red, blue, yellow);
+    color: black;
+}
+
 .M:hover {
-    color: rgb(236, 233, 233);
+    color: rgb(238, 10, 10);
 }
 .Y:hover {
     color: blue;
@@ -96,7 +207,7 @@ h1 {
     color:Violet;
 }
 .W:hover {
-    color:White;
+    color:rgb(248, 8, 8);
 }
 .one:hover {
     color:rgb(110, 163, 94);
@@ -259,16 +370,16 @@ font-family: 'Source Serif 4', sans-serif;
     margin-left: 50px;
     border-radius: 80px;
     margin-right: 100px;
-    float: right;
+    float: left;
     margin-top: -450px;
 }
 .Devil-Biography {
     font-size: 40px;
-    float:left;
+    float:right;
     margin-right: 1300px;
     margin-top: 300px;
-    margin-right: 1300px;
-    margin-left: 100px;
+    margin-right: 100px;
+    margin-left: 1300px;
     color: white;
 }
 .white-mercedez {
@@ -276,13 +387,14 @@ font-family: 'Source Serif 4', sans-serif;
     height: 700px;
     margin-left:50px;
     border-radius: 80px;
-    margin-top: 300px;
+    margin-top: -500px;
+    float: right;
 }
 .White-mercedez-Biography {
     font-size: 40px;
-    float: right;
-    margin-left: 1300px;
-    margin-right: 100px;
+    float: left;
+    margin-left: 100px;
+    margin-right: 1300px;
     margin-top: 200px;
     color: white;
 }
@@ -292,28 +404,21 @@ font-family: 'Source Serif 4', sans-serif;
     margin-left: 50px;
     border-radius: 80px;
     margin-right: 100px;
-    float: right;
-    margin-top: -450px;
+    float: left;
     margin-bottom: 500px;
+    margin-top: -450px;
 }
 .Grey-Biography {
     font-size: 40px;
-    float:left;
+    float:right;
     margin-right: 1300px;
     margin-top: 200px;
-    margin-right: 1300px;
-    margin-left: 100px;
+    margin-right: 100px;
+    margin-left: 1300px;
     color: white;
 }
 body {
-    background: black;
-}
-hr {
-    background: linear-gradient(to right, red, blue, yellow);
-    width: 95%;
-    height: 15px;
-    background-color: rgb(47, 165, 57);
-    margin-top: 400px;
+    background: rgb(7, 7, 7);
 }
 /*
 h3 {
