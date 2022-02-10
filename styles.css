@@ -2,11 +2,12 @@
 h1 {
     text-align: center;
     text-decoration: brown;
-    font-size: 70px;
+    font-size: 170px;
     font: bolder;
     color: rgb(240, 25, 10);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
+    margin-bottom: -200px;
 }
 .logo {
     float: left;
@@ -18,11 +19,11 @@ h1 {
 .Company-name {
     color: rgb(103, 33, 214);
     font-size: 30px;
-    margin-top: -250px;
+    margin-top: -550px;
     margin-left: 160px;
     @media (min-width: 992px)
 }
-.Gallery {
+.Bugatti {
     font-size: 40px;
     border-radius: 10px;
     background: linear-gradient(to right, red, yellow);
@@ -47,6 +48,11 @@ h1 {
     border-color: rgb(237, 174, 14);
     border-width: 9px;
 }
+.Test {
+    border-color: red;
+    max-width: 4000px;
+    color: red;
+}
 .Gallery:hover {
     color: yellow;
 }
@@ -66,7 +72,7 @@ h1 {
     color: blue;
 }
 .M:hover {
-    color: red;
+    color: rgb(236, 233, 233);
 }
 .Y:hover {
     color: blue;
@@ -93,7 +99,7 @@ h1 {
     color:White;
 }
 .one:hover {
-    color:Red;
+    color:rgb(110, 163, 94);
 }
 .two:hover {
     color:Blue;
@@ -288,12 +294,13 @@ font-family: 'Source Serif 4', sans-serif;
     margin-right: 100px;
     float: right;
     margin-top: -450px;
+    margin-bottom: 500px;
 }
 .Grey-Biography {
     font-size: 40px;
     float:left;
     margin-right: 1300px;
-    margin-top: 300px;
+    margin-top: 200px;
     margin-right: 1300px;
     margin-left: 100px;
     color: white;
@@ -306,14 +313,16 @@ hr {
     width: 95%;
     height: 15px;
     background-color: rgb(47, 165, 57);
-    margin-top: 100px;
+    margin-top: 400px;
 }
+/*
 h3 {
     margin-top: 300px;
     font-family: 'Comforter', cursive;
     font-size: 25px;
     float: left;
 }
+*/
 /* body */
 /* footer */
 
@@ -323,8 +332,10 @@ h3 {
     border-radius: 360px;
     float: left;
     margin-left: 30px;
+    margin-top: 400px;
 }
-.facebook {
-    background-color: yellow;
+.footer {
+    max-width: 200px;
+    border-color: red;
 }
 /* footer */
