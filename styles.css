@@ -467,7 +467,6 @@ font-family: 'Source Serif 4', sans-serif;
 .Bugatti-name:hover{
     color: rgb(16, 95, 27);
     font-size-adjust: 50px;
-    padding-right: 30px;
 }
 .Bugatti-N {
     font-size: 90px;
@@ -559,7 +558,7 @@ font-family: 'Source Serif 4', sans-serif;
     transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
-.ornage-Koenigsegg:hover {
+.orange-Koenigsegg:hover {
     transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
@@ -585,37 +584,65 @@ font-family: 'Source Serif 4', sans-serif;
 }
 
 .Bugatti-N:hover {
-    color: red;
+    color: rgb(255, 0, 0);
+}
+.Bugatti-l {
+    text-decoration: none;
 }
 .Lyken-N:hover {
     color: red;
 }
+.Lyken-l {
+    text-decoration: none;
+}
 .Ford-N:hover {
     color: red;
+    transform: scale(1.1);
+}
+.Ford-l {
+    text-decoration: none;
 }
 .Jesko-N:hover {
     color: red;
 }
+.Jesko-l {
+    text-decoration: none;
+}
 .Devel-N:hover {
     color: red;
+}
+.Devel-l {
+    text-decoration: none;
 }
 .AMG-N:hover {
     color: red;
 }
+.AMG-l {
+    text-decoration: none;
+}
 .GTR-N:hover {
     color: red;
+}
+.GTR-l {
+    text-decoration: none;
 }
 .Mclaren-N:hover {
     color: red;
 }
+.Mclaren-l {
+    text-decoration: none;
+}
 .Charger-N:hover {
     color: red;
 }
-.Corvette-N:hover {
+.Charger-l {
+    text-decoration: none;
+}
+.Corvtte-N:hover {
     color: red;
 }
-.Bugatti-N:hover {
-    color: red;
+.Corvette-l {
+    text-decoration: none;
 }
 .Lyken-name:hover{
     color: rgb(150, 79, 79);
@@ -647,17 +674,6 @@ font-family: 'Source Serif 4', sans-serif;
 body {
     background: rgb(0, 0, 0);
 }
-/*
-h3 {
-    margin-top: 300px;
-    font-family: 'Comforter', cursive;
-    font-size: 25px;
-    float: left;
-}
-*/
-/* body */
-/* footer */
-
 .Logo-footer {
     width: 155px;
     height: 140px;
