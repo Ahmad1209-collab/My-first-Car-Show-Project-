@@ -712,4 +712,13 @@ body {
     transform: scale(1.2);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
+.Form-input {
+    margin-bottom: -200px;
+    margin-top: 400px;
+    margin-left: 70%;
+}
+.Text-Area {
+    width: 700px;
+    height: 400px;
+}
 /* footer */
