@@ -7,6 +7,7 @@ h1 {
     color: rgb(255, 255, 255);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
+    margin-left: -900px;
 }
 .title:hover
 {
@@ -272,7 +273,7 @@ hr {
 h2 {
     text-align: center;
     font-size: 50px;
-    color: rgb(216, 23, 10);
+    color: #ffffff;
     font-family: 'Comforter', cursive;
 font-family: 'Source Serif 4', sans-serif;
     @media (min-width: 992px)
@@ -466,6 +467,7 @@ font-family: 'Source Serif 4', sans-serif;
 .Bugatti-name:hover{
     color: rgb(16, 95, 27);
     font-size-adjust: 50px;
+    padding-right: 30px;
 }
 .Bugatti-N {
     font-size: 90px;
@@ -541,6 +543,47 @@ font-family: 'Source Serif 4', sans-serif;
     margin-bottom: -80px;
     margin-top: 100px;
 }
+.Bugatti:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.white-car:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.Blue-ford:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.Blue-corvete:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.ornage-Koenigsegg:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.red-hellcat:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.orange-mclaren:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.white-devil:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.white-mercedez:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.grey-mclaren:hover {
+    transform: scale(1.1);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+
 .Bugatti-N:hover {
     color: red;
 }
@@ -622,23 +665,35 @@ h3 {
     float: center;
     margin-left: 49%;
     margin-right: 45%;
-    margin-bottom: -160px;
+    margin-bottom: -170px;
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
     width: 175px;
     margin-left: 43%;
+    margin-bottom: -170px;
     box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
 }
 .Instagram-Account-mine {
     border-radius: 2000px;
     width: 175px;
-    margin-left: 50%;
+    margin-left: 54%;
+    margin-bottom: -160px;
     box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
 }
 .Instagram-Account-mine:hover
 {
     transform: scale(1.2);
-    box-shadow: 0 30px 45px -15px rgba(0,111,255,0.6);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.Facebook-Account-mine:hover
+{
+    transform: scale(1.2);
+    box-shadow: 0 30px 45px -15px rgba(25, 0, 255, 0.6);
+}
+.Logo-footer:hover
+{
+    transform: scale(1.2);
+    box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 /* footer */
