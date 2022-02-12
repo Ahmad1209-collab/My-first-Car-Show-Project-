@@ -68,6 +68,7 @@ hr {
     height: 15px;
     background-color: rgb(47, 165, 57);
     margin-top: 600px;
+    margin-bottom: -30px;
 }
 .Company-name {
     color: rgb(103, 33, 214);
@@ -75,6 +76,7 @@ hr {
     margin-top: -740px;
     margin-left: 160px;
     @media (min-width: 992px)
+    font-family: 'Comforter', cursive;
 }
 .Bugatti-b {
     font-size: 50px;
@@ -83,9 +85,9 @@ hr {
     margin-left: 3%;
     margin-top: 200px;
     color: white;
-    border-width: -20px;
     border-color: black;
     border-style: none;
+    font-family: 'Comforter', cursive;
 }
 .Lyken-Hypersport-a {
     font-size: 50px;
@@ -97,9 +99,11 @@ hr {
     border-width: -20px;
     border-color: black;
     border-style: none;
+    font-family: 'Comforter', cursive;
 }
 .Ford-GT-c {
     font-size: 50px;
+    font-family: 'Comforter', cursive;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -117,6 +121,7 @@ hr {
     margin-top: 100px;
     color: white;
     border-width: -20px;
+    font-family: 'Comforter', cursive;
     border-color: black;
     border-style: none;
 }
@@ -126,6 +131,7 @@ hr {
     background-color: black;
     margin-left: 15px;
     margin-top: 100px;
+    font-family: 'Comforter', cursive;
     color: white;
     border-width: -20px;
     border-color: black;
@@ -135,6 +141,7 @@ hr {
     font-size: 50px;
     border-radius: 10px;
     background-color: black;
+    font-family: 'Comforter', cursive;
     margin-left: 15px;
     margin-top: 100px;
     color: white;
@@ -152,6 +159,7 @@ hr {
     border-width: -20px;
     border-color: black;
     border-style: none;
+    font-family: 'Comforter', cursive;
 }
 .Devel {
     font-size: 50px;
@@ -159,6 +167,7 @@ hr {
     background-color: black;
     margin-left: 15px;
     margin-top: 100px;
+    font-family: 'Comforter', cursive;
     color: white;
     border-width: -20px;
     border-color: black;
@@ -169,6 +178,7 @@ hr {
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
+    font-family: 'Comforter', cursive;
     margin-top: 100px;
     color: white;
     border-width: -20px;
@@ -186,47 +196,48 @@ hr {
     border-color: black;
     border-style: none;
     margin-right: 5%;
+    font-family: 'Comforter', cursive;
 }
 
 .Bugatti-b:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: white;
 }
 .Lyken-Hypersport-a:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Ford-GT-c:hover {
-    color: rgb(0, 0, 0);
-    background: linear-gradient(to right, red, blue, yellow);
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
 }
 .Corvette:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Koenigsegg-J:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Dodge-a:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Maclaren:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Devel:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Mercedes:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 .Mclaren-GTR:hover {
-    background: linear-gradient(to right, red, blue, yellow);
-    color: black;
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
 }
 
 .M:hover {
@@ -270,13 +281,13 @@ hr {
 }
 /* header */
 /* Body*/
-h2 {
+.The-Subhead {
     text-align: center;
     font-size: 50px;
     color: #ffffff;
     font-family: 'Comforter', cursive;
-font-family: 'Source Serif 4', sans-serif;
     @media (min-width: 992px)
+    margin-top: 9000px;
 }
 .Bugatti {
     float:right;
@@ -674,26 +685,26 @@ font-family: 'Source Serif 4', sans-serif;
 body {
     background: rgb(0, 0, 0);
 }
-.Logo-footer {
-    width: 155px;
-    height: 140px;
+.Github-footer {
+    width: 270px;
+    height: 270px;
     border-radius: 360px;
     float: center;
-    margin-left: 49%;
+    margin-left: 50%;
     margin-right: 45%;
-    margin-bottom: -170px;
+    margin-bottom: -245px;
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
     width: 175px;
-    margin-left: 43%;
-    margin-bottom: -170px;
+    margin-left: 45%;
+    margin-bottom: -175px;
     box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
 }
 .Instagram-Account-mine {
     border-radius: 2000px;
     width: 175px;
-    margin-left: 54%;
+    margin-left: 57%;
     margin-bottom: -160px;
     box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
 }
@@ -707,18 +718,102 @@ body {
     transform: scale(1.2);
     box-shadow: 0 30px 45px -15px rgba(25, 0, 255, 0.6);
 }
-.Logo-footer:hover
+.Github-footer:hover
 {
     transform: scale(1.2);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Form-input {
     margin-bottom: -200px;
-    margin-top: 400px;
+    margin-top: 80px;
     margin-left: 70%;
+    width: 700px;
+    height: 60px;
+    background: rgb(10, 28, 36);
+    color: white;
+    font-size: 25px;
+    border-color:white ;
+    border-width: -10px;
+}
+.Email-input {
+    margin-bottom: -200px;
+    margin-top: 40px;
+    margin-left: 70%;
+    width: 700px;
+    height: 60px;
+    background: rgb(10, 28, 36);
+    color: white;
+    font-size: 25px;
+    border-color:white ;
+    border-width: -10px;
 }
 .Text-Area {
     width: 700px;
     height: 400px;
+    margin-top: 50px;
+    margin-left: 70%;
+    background: rgb(10, 28, 36);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.submit-button {
+    width: 160px;
+    height: 50px;
+    background: rgb(24, 162, 221);
+    margin-left: 70%;
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 60px;
+    color: White;
+    border-color: black;
+}
+.submit-button:hover {
+    transform: scale(1.3);
+    padding-left: 2px;
+    
+}
+.Gmail-logo {
+    width: 175px;
+    margin-left: 78%;
+    margin-top: -900px;
+    margin-bottom: -60px;
+}
+.logo-footer {
+    border-radius: 350px;
+    width: 700px;
+    height: 600px;
+    margin-top: 200px;
+    margin-bottom: -700px;
+    float: left;
+    margin-left: -1200px;
+    margin-right: 1300px;
+}
+.Description {
+    color: white;
+    font-family: 'Comforter', cursive;
+    font-size: 50px;
+    margin-left: -34%;
+    margin-top: 400px;
+    margin-right: 1300px;
+    float: left;
+}
+.Description-F {
+    color: white;
+    font-family: 'Comforter', cursive;
+    font-size: 50px;
+    margin-left: -49%;
+    margin-top: 470px;
+    margin-right: 90px;
+    float: left;
+}
+.Description-S {
+    color: white;
+    font-family: 'Comforter', cursive;
+    font-size: 50px;
+    margin-left: -49%;
+    margin-top: 540px;
+    margin-bottom: -600px;
+    margin-right: 1300px;
+    float: left;
 }
 /* footer */
