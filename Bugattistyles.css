@@ -1,0 +1,245 @@
+.logo-in-Bugatti-page {
+    float: left;
+    width: 220px;
+    height: 170px;
+    border-radius: 60px;
+    margin-left: 50px;
+}
+.Company-name {
+    color: rgb(215, 253, 0);
+    font-size: 50px;
+    margin-top: -250px;
+    margin-left: 9%;
+    font-family: 'Comforter', cursive;
+}
+body {
+    background: rgb(0, 0, 0) ;
+}
+hr {
+    background: linear-gradient(to right, red, blue, yellow);
+width: 95%;
+height: 15px;
+background-color: rgb(47, 165, 57);
+margin-top: -30px;
+margin-bottom: -30px;
+}
+.head-title {
+    font-size: medium;
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    color: #ffffff;
+    margin-top: 220px;
+    font-family: 'Comforter', cursive;
+    @media (min-width: 992px)
+}
+.Home-b {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 1%;
+    margin-top: 230px;
+    color: white;
+    border-color: black;
+    border-style: none;
+    font-family: 'Comforter', cursive;
+}
+.Lyken-Hypersport-a {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+    font-family: 'Comforter', cursive;
+}
+.Ford-GT-c {
+    font-size: 50px;
+    font-family: 'Comforter', cursive;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+}
+.Corvette {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15xp;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    font-family: 'Comforter', cursive;
+    border-color: black;
+    border-style: none;
+}
+.Koenigsegg-J {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    font-family: 'Comforter', cursive;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+}
+.Dodge-a {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    font-family: 'Comforter', cursive;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+}
+.Maclaren {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+    font-family: 'Comforter', cursive;
+}
+.Devel {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    font-family: 'Comforter', cursive;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+}
+.Mercedes {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    font-family: 'Comforter', cursive;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+}
+.Mclaren-GTR {
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-top: 100px;
+    color: white;
+    border-width: -20px;
+    border-color: black;
+    border-style: none;
+    margin-right: 5%;
+    font-family: 'Comforter', cursive;
+}
+
+.Home-b:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: white;
+    transform: scale(1.6);
+}
+.Lyken-Hypersport-a:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Ford-GT-c:hover {
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+}
+.Corvette:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Koenigsegg-J:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Dodge-a:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Maclaren:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Devel:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Mercedes:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Mclaren-GTR:hover {
+    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
+    color: rgb(255, 255, 255);
+    transform: scale(1.6);
+}
+.Bugatti-F {
+    width: 700px;
+    height: 500px;
+    margin-left: 4%;
+    margin-top: 200px;
+}
+.Bugatti-S {
+    width: 700px;
+    height: 500px;
+    margin-left: 2%;
+}
+.Bugatti-T {
+    width: 700px;
+    height: 500px;
+    margin-left: 2%;
+}
+.Bugatti-FO {
+    width: 700px;
+    height: 500px;
+    margin-left: 2%;
+}
+.Bugatti-FI {
+    width: 700px;
+    height: 500px;
+    margin-left: 4%;
+    margin-top: 50px;
+}
+.Bugatti-SI {
+    width: 700px;
+    height: 500px;
+}
+.Bugatti-SE {
+    width: 700px;
+    height: 500px;
+}
+.Bugatti-EI {
+    width: 700px;
+    height: 500px;
+}
