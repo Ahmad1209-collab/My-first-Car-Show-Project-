@@ -386,6 +386,13 @@ margin-bottom: -30px;
 .Bugatti-Ew:hover {
     transform: scale(1.5);
 }
+.S-Interior {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-family: 'Comforter', cursive;
+}
 .Github-footer {
     width: 270px;
     height: 270px;
@@ -423,6 +430,92 @@ margin-bottom: -30px;
 {
     transform: scale(1.2);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
+}
+.Interior-F {
+    width: 800px;
+    height: 500px;
+    margin-left: 15.5%;
+    border-radius: 30px;
+}
+.Interior-F:hover {
+    transform: scale(1.5);
+}
+.Interior-S {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Interior-S:hover {
+    transform: scale(1.5);
+}
+.Interior-T {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Interior-T:hover {
+    transform: scale(1.5);
+}
+.Interior-FO {
+    width: 800px;
+    height: 500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.Interior-FO:hover {
+    transform: scale(1.5);
+}
+.Interior-FI {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Interior-FI:hover {
+    transform: scale(1.5);
+}
+.Interior-SI {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Interior-SI:hover {
+    transform: scale(1.5);
+}
+.Interior-SV {
+    width: 800px;
+    height: 500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+    margin-bottom: 150px;
+}
+.Interior-SV:hover {
+    transform: scale(1.5);
+}
+.Interior-EI {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+    margin-bottom: 150px;
+}
+.Interior-EI:hover {
+    transform: scale(1.5);
+}
+.Interior-NI {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+    margin-bottom: 150px;
+}
+.Interior-NI:hover {
+    transform: scale(1.5);
 }
 .Form-input {
     margin-bottom: -200px;
