@@ -271,7 +271,7 @@ hr {
     margin-top: 25px;
     border-radius: 30px;
 }
-.Exterior:hover {
+.Exterior-EI:hover {
     transform: scale(1.5);
 }
 .Exterior-Ni {
