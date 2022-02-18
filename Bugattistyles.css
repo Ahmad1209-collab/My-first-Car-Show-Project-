@@ -205,46 +205,181 @@ margin-bottom: -30px;
     transform: scale(1.6);
 }
 .Bugatti-F {
-    width: 2500px;
+    width: 2650px;
     height: 1700px;
-    margin-left: 15%;
+    margin-left: 12.5%;
     margin-top: 100px;
     margin-right: 15%;
-    margin-bottom: 300px;
+    border-radius: 30px;
+}
+.Bugatti-F:hover {
+    transform: scale(1.1);
 }
 .Bugatti-S {
-    width: 200px;
-    height: 100px;
-    margin-top: -200px;
-    margin-left: 90%;
+    width: 800px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 15.5%;
+    border-radius: 30px;
+}
+.Bugatti-S:hover {
+    transform: scale(1.5);
 }
 .Bugatti-T {
-    width: 700px;
+    width: 800px;
     height: 500px;
-    margin-left: 63%;
-    margin-top: 50px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-T:hover {
+    transform: scale(1.5);
 }
 .Bugatti-FO {
-    width: 690px;
-    height: 400px;
-    margin-left: 17%;
-    margin-top: -900px;
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-FO:hover {
+    transform: scale(1.5);
 }
 .Bugatti-FI {
-    width: 700px;
+    width: 800px;
     height: 500px;
-    margin-left: 9%;
-    margin-top: -1500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.Bugatti-FI:hover {
+    transform: scale(1.5);
 }
 .Bugatti-SI {
-    width: 700px;
+    width: 800px;
     height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-SI:hover {
+    transform: scale(1.5);
 }
 .Bugatti-SE {
-    width: 700px;
+    width: 800px;
     height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-SE:hover {
+    transform: scale(1.5);
 }
 .Bugatti-EI {
-    width: 700px;
+    width: 800px;
     height: 500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.Bugatti-EI:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Ni {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-Ni:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Te {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-Te:hover {
+    transform: scale(1.5);
+}
+.Bugatti-El {
+    width: 800px;
+    height: 500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.Bugatti-El:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Tw {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-Tw:hover {
+    transform: scale(1.5);
+}
+.Bugatti-TH {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-TH:hover {
+    transform: scale(1.5);
+}
+.Bugatti-FH {
+    width: 800px;
+    height: 500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.Bugatti-FH:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Fe {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-Fe:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Sh {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-Sh:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Sn {
+    width: 800px;
+    height: 500px;
+    margin-left: 15.5%;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.Bugatti-Sn:hover {
+    transform: scale(1.5);
+}
+.Bugatti-En {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-En:hover {
+    transform: scale(1.5);
+}
+.Bugatti-Ew {
+    width: 800px;
+    height: 500px;
+    margin-left: 0.5%;
+    border-radius: 30px;
+}
+.Bugatti-Ew:hover {
+    transform: scale(1.5);
 }
