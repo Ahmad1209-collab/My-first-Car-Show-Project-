@@ -8,6 +8,7 @@ h1 {
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
     margin-left: -900px;
+    margin-top: -30px;
 }
 .title:hover
 {
@@ -73,7 +74,7 @@ hr {
 .Company-name {
     color: rgb(215, 253, 0);
     font-size: 50px;
-    margin-top: -820px;
+    margin-top: -680px;
     margin-left: 10%;
     font-family: 'Comforter', cursive;
 }
@@ -446,6 +447,7 @@ hr {
     border-radius: 80px;
     margin-top: -500px;
     float: right;
+    margin-bottom: 100px;
 }
 .White-mercedez-Biography {
     font-size: 40px;
@@ -454,25 +456,6 @@ hr {
     margin-right: 1300px;
     margin-top: 200px;
     color: white;
-}
-.grey-mclaren {
-    width: 1100px;
-    height: 700px;
-    margin-left: 50px;
-    border-radius: 80px;
-    margin-right: 100px;
-    float: left;
-    margin-bottom: 500px;
-    margin-top: -450px;
-}
-.Grey-Biography {
-    font-size: 40px;
-    float:right;
-    margin-right: 1300px;
-    margin-top: 200px;
-    margin-right: 100px;
-    margin-left: 1300px;
-    color: rgb(255, 255, 255);
 }
 .Bugatti-name:hover{
     color: rgb(16, 95, 27);
@@ -784,7 +767,7 @@ body {
     margin-top: 200px;
     margin-bottom: -700px;
     float: left;
-    margin-left: -1200px;
+    margin-left: 100px;
     margin-right: 1300px;
 }
 .Description {
