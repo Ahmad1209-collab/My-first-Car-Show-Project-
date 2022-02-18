@@ -158,52 +158,42 @@ hr {
 .Home-b:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: white;
-    transform: scale(1.6);
 }
 .Lyken-Hypersport-a:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Bugatti-c:hover {
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
 }
 .Corvette:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Koenigsegg-J:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Dodge-a:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Maclaren:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Devel:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Mercedes:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 .Mclaren-GTR:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
-    transform: scale(1.6);
 }
 /* Head */
 /* Body */
