@@ -37,7 +37,7 @@ hr {
     font-size: 50px;
     border-radius: 10px;
     background-color: black;
-    margin-left: 1%;
+    margin-left: 5%;
     margin-top: 230px;
     color: white;
     border-color: black;
@@ -140,20 +140,6 @@ hr {
     border-color: black;
     border-style: none;
 }
-.Mclaren-GTR {
-    font-size: 50px;
-    border-radius: 10px;
-    background-color: black;
-    margin-left: 15px;
-    margin-top: 100px;
-    color: white;
-    border-width: -20px;
-    border-color: black;
-    border-style: none;
-    margin-right: 5%;
-    font-family: 'Comforter', cursive;
-}
-
 .Home-b:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: white;
@@ -187,10 +173,6 @@ hr {
     color: rgb(255, 255, 255);
 }
 .Mercedes:hover {
-    background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
-    color: rgb(255, 255, 255);
-}
-.Mclaren-GTR:hover {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
 }
