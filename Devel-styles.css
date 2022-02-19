@@ -1,16 +1,16 @@
 /* Head */
 .logo-in-Ford-page {
     float: left;
-    width: 220px;
-    height: 170px;
+    width: 65px;
+    height: 60px;
     border-radius: 60px;
-    margin-left: 50px;
+    margin-left: 20px;
 }
 .Company-name {
     color: rgb(215, 253, 0);
-    font-size: 50px;
-    margin-top: -250px;
-    margin-left: 9%;
+    font-size: 15px;
+    margin-top: -115px;
+    margin-left: 6%;
     font-family: 'Comforter', cursive;
 }
 body {
@@ -19,34 +19,34 @@ body {
 hr {
     background: linear-gradient(to right, red, blue, yellow);
     width: 95%;
-    height: 15px;
+    height: 9px;
     background-color: rgb(47, 165, 57);
-    margin-top: -30px;
+    margin-top: 20px;
     margin-bottom: -30px;
 }
 .head-title {
     font-size: medium;
     color: white;
     text-align: center;
-    font-size: 90px;
+    font-size: 50px;
     color: #ffffff;
-    margin-top: 220px;
+    margin-top: 100px;
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
 }
 .Home-b {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
-    margin-left: 5%;
-    margin-top: 230px;
+    margin-left: 13%;
+    margin-top: 100px;
     color: white;
     border-color: black;
     border-style: none;
     font-family: 'Comforter', cursive;
 }
 .Lyken-Hypersport-a {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -58,7 +58,7 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Bugatti-c {
-    font-size: 50px;
+    font-size: 20px;
     font-family: 'Comforter', cursive;
     border-radius: 10px;
     background-color: black;
@@ -70,7 +70,7 @@ hr {
     border-style: none;
 }
 .Corvette {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15xp;
@@ -82,7 +82,7 @@ hr {
     border-style: none;
 }
 .Ford-GT {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -94,7 +94,7 @@ hr {
     border-style: none;
 }
 .Koenigsegg-a {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     font-family: 'Comforter', cursive;
@@ -106,7 +106,7 @@ hr {
     border-style: none;
 }
 .Dodge-c {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -118,7 +118,7 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Maclaren {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -130,7 +130,7 @@ hr {
     border-style: none;
 }
 .Mercedes {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -180,9 +180,9 @@ hr {
 /* Head */
 /* Body */
 .Exterior-F {
-    height: 1500px;
-    width: 2800px;
-    margin-left: 12%;
+    height: 900px;
+    width: 1500px;
+    margin-left: 9%;
     margin-top: 200px;
     margin-right: 15%;
     border-radius: 30px;
@@ -191,18 +191,18 @@ hr {
     transform: scale(1.1);
 }
 .Exterior-S {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     margin-top: 100px;
-    margin-left: 17%;
     border-radius: 30px;
 }
 .Exterior-S:hover {
     transform: scale(1.5);
 }
 .Exterior-T {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -210,8 +210,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-FO {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -219,9 +219,9 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-FI {
-    width: 800px;
-    height: 500px;
-    margin-left: 17%;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -229,8 +229,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-SI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -238,8 +238,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-SE {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -247,9 +247,9 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-EI {
-    width: 800px;
-    height: 500px;
-    margin-left: 17%;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -257,8 +257,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Ni {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -266,8 +266,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Te {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -275,9 +275,9 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-El {
-    width: 800px;
-    height: 500px;
-    margin-left: 17%;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -285,8 +285,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Tw {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -294,8 +294,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-TH {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -303,9 +303,9 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-FH {
-    width: 800px;
-    height: 500px;
-    margin-left: 17%;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -313,8 +313,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Fe {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -322,8 +322,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Sh {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -331,9 +331,9 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Sn {
-    width: 800px;
-    height: 500px;
-    margin-left: 17%;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     margin-top: 25px;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -342,8 +342,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-En {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -352,8 +352,8 @@ hr {
     transform: scale(1.5);
 }
 .Exterior-Ew {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -365,15 +365,16 @@ hr {
 /* Interior */
 .S-Interior {
     color: white;
-    font-size: 120px;
+    font-size: 60px;
     text-align: center;
     margin-bottom: 100px;
     font-family: 'Comforter', cursive;
+    margin-top: -80px;
 }
 .Interior-F {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.5%;
+    width: 450px;
+    height: 300px;
+    margin-left: 12.5%;
     border-radius: 30px;
     margin-bottom: 100px;
 }
@@ -381,8 +382,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-S {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 100px;
@@ -391,8 +392,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-T {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 100px;
