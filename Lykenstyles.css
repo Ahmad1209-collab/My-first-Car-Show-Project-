@@ -1,52 +1,52 @@
 /* head */
 .logo {
     float: left;
-    width: 220px;
-    height: 170px;
+    width: 65px;
+    height: 60px;
     border-radius: 60px;
-    margin-left: 50px;
+    margin-left: 20px;
 }
 Body {
     background-color: black;
 }
 .Company-name {
     color: rgb(215, 253, 0);
-    font-size: 50px;
-    margin-top: -250px;
-    margin-left: 9%;
+    font-size: 15px;
+    margin-top: -115px;
+    margin-left: 6%;
     font-family: 'Comforter', cursive;
 }
 .head-title {
     font-size: medium;
     color: white;
     text-align: center;
-    font-size: 90px;
+    font-size: 50px;
     color: #ffffff;
-    margin-top: 220px;
+    margin-top: 100px;
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
 }
 hr {
     background: linear-gradient(to right, red, blue, yellow);
     width: 95%;
-    height: 15px;
+    height: 9px;
     background-color: rgb(47, 165, 57);
-    margin-top: -30px;
+    margin-top: 20px;
     margin-bottom: -30px;
 }
 .Home-b {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
-    margin-left: 5%;
-    margin-top: 230px;
+    margin-left: 13%;
+    margin-top: 100px;
     color: white;
     border-color: black;
     border-style: none;
     font-family: 'Comforter', cursive;
 }
 .Bugatti-a {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -58,7 +58,7 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Ford-GT-c {
-    font-size: 50px;
+    font-size: 20px;
     font-family: 'Comforter', cursive;
     border-radius: 10px;
     background-color: black;
@@ -70,7 +70,7 @@ hr {
     border-style: none;
 }
 .Corvette {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15xp;
@@ -82,7 +82,7 @@ hr {
     border-style: none;
 }
 .Koenigsegg-J {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -94,7 +94,7 @@ hr {
     border-style: none;
 }
 .Dodge-a {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     font-family: 'Comforter', cursive;
@@ -106,7 +106,7 @@ hr {
     border-style: none;
 }
 .Maclaren {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -118,7 +118,7 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Devel {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -130,7 +130,7 @@ hr {
     border-style: none;
 }
 .Mercedes {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -181,8 +181,8 @@ hr {
 /* Head */
 /* Body */
 .Lykan-F {
-    width: 2650px;
-    height: 1500px;
+    width: 1400px;
+    height: 900px;
     margin-left: 12.5%;
     margin-top: 200px;
     margin-right: 15%;
@@ -192,18 +192,18 @@ hr {
     transform: scale(1.1);
 }
 .Lykan-S {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 50px;
-    margin-left: 15.3%;
     border-radius: 30px;
 } 
 .Lykan-S:hover {
     transform: scale(1.5);
 }
 .Lykan-T {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -211,8 +211,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-FO {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -220,9 +220,9 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-FI {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.3%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
 } 
@@ -230,8 +230,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-SI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -239,8 +239,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-SV {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -248,9 +248,9 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-EI {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.3%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
 } 
@@ -258,8 +258,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-NI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -267,8 +267,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-TE {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -276,9 +276,9 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-EL {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.3%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
 } 
@@ -286,8 +286,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-TW {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -295,8 +295,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-TH {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -304,9 +304,9 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-FN {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.3%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
 } 
@@ -314,8 +314,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-FH {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -323,8 +323,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-SX {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -332,9 +332,9 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-SW {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.3%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
 } 
@@ -342,8 +342,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-EM {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -351,8 +351,8 @@ hr {
     transform: scale(1.5);
 }
 .Lykan-Ni {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 } 
@@ -363,23 +363,24 @@ hr {
 /* Interior */
 .S-Interior {
     color: white;
-    font-size: 120px;
+    font-size: 60px;
     text-align: center;
     margin-bottom: 100px;
     font-family: 'Comforter', cursive;
+    margin-top: 50px;
 }
 .Interior-F {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.5%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     border-radius: 30px;
 }
 .Interior-F:hover {
     transform: scale(1.5);
 }
 .Interior-S {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -387,8 +388,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-T {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -396,9 +397,9 @@ hr {
     transform: scale(1.5);
 }
 .Interior-FO {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.5%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -406,8 +407,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-FI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -415,8 +416,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-SI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -424,9 +425,9 @@ hr {
     transform: scale(1.5);
 }
 .Interior-SV {
-    width: 800px;
-    height: 500px;
-    margin-left: 15.5%;
+    width: 450px;
+    height: 300px;
+    margin-left: 13%;
     margin-top: 25px;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -435,8 +436,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-EI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -445,8 +446,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-NI {
-    width: 800px;
-    height: 500px;
+    width: 450px;
+    height: 300px;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -457,83 +458,83 @@ hr {
 /* Interior */
 /* Footer */
 .Github-footer {
-    width: 270px;
-    height: 270px;
+    width: 100px;
+    height: 100px;
     border-radius: 360px;
     float: center;
     margin-left: 50%;
     margin-right: 45%;
-    margin-bottom: -245px;
+    margin-bottom: -180px;
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
-    width: 175px;
-    margin-left: 45%;
-    margin-bottom: -175px;
+    width: 100px;
+    margin-left: 43.5%;
+    margin-bottom: -165px;
     box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
 }
 .Instagram-Account-mine {
     border-radius: 2000px;
-    width: 175px;
-    margin-left: 57%;
-    margin-bottom: -160px;
+    width: 100px;
+    margin-left: 56.5%;
+    margin-bottom: -145px;
     box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
 }
 .Instagram-Account-mine:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Facebook-Account-mine:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(25, 0, 255, 0.6);
 }
 .Github-footer:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Form-input {
     margin-bottom: -200px;
-    margin-top: 80px;
+    margin-top: -50px;
     margin-left: 70%;
-    width: 700px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     background: rgb(10, 28, 36);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     border-color:white ;
     border-width: -10px;
 }
 .Email-input {
     margin-bottom: -200px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 70%;
-    width: 700px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     background: rgb(10, 28, 36);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     border-color:white ;
     border-width: -10px;
 }
 .Text-Area {
-    width: 700px;
-    height: 400px;
-    margin-top: 50px;
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
     margin-left: 70%;
     background: rgb(10, 28, 36);
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
 }
 .submit-button {
-    width: 160px;
-    height: 50px;
+    width: 130px;
+    height: 40px;
     background: rgb(24, 162, 221);
     margin-left: 70%;
     margin-top: 20px;
-    font-size: 25px;
+    font-size: 20px;
     border-radius: 60px;
     color: White;
     border-color: black;
@@ -543,48 +544,38 @@ hr {
     padding-left: 2px;
     
 }
-.Gmail-logo {
-    width: 175px;
-    margin-left: 78%;
-    margin-top: -900px;
-    margin-bottom: -60px;
-}
 .logo-footer {
     border-radius: 350px;
-    width: 700px;
-    height: 600px;
-    margin-top: 200px;
+    width: 220px;
+    height: 200px;
+    margin-top: 100px;
     margin-bottom: -700px;
     float: left;
     margin-left: 100px;
-    margin-right: 1300px;
 }
 .Description {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -32.5%;
-    margin-top: 400px;
-    margin-right: 1300px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 150px;
     float: left;
 }
 .Description-F {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -49%;
-    margin-top: 470px;
-    margin-right: 90px;
+    font-size: 20px;
+    margin-left: -9.5%;
+    margin-top: 175px;
     float: left;
 }
 .Description-S {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -49%;
-    margin-top: 540px;
+    font-size: 20px;
+    margin-left: -9.9%;
+    margin-top: 205px;
     margin-bottom: -600px;
-    margin-right: 1300px;
     float: left;
 }
 /* Footer */

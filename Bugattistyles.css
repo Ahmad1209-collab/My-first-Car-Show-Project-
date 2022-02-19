@@ -1,3 +1,4 @@
+/* head */
 .logo-in-Bugatti-page {
     float: left;
     width: 65px;
@@ -18,7 +19,7 @@ body {
 hr {
     background: linear-gradient(to right, red, blue, yellow);
     width: 95%;
-    height: 15px;
+    height: 9px;
     background-color: rgb(47, 165, 57);
     margin-top: 20px;
     margin-bottom: -30px;
@@ -175,6 +176,8 @@ hr {
     background: linear-gradient(to right, rgb(121, 33, 33), rgb(13, 13, 80), rgb(112, 112, 15));
     color: rgb(255, 255, 255);
 }
+/* head */
+/* Body */
 .Bugatti-F {
     width: 1400px;
     height: 900px;
@@ -357,6 +360,8 @@ hr {
 .Bugatti-Ew:hover {
     transform: scale(1.5);
 }
+/* Body */
+/* Interior */
 .S-Interior {
     color: white;
     font-size: 60px;
@@ -451,6 +456,8 @@ hr {
 .Interior-NI:hover {
     transform: scale(1.5);
 }
+/* Interior */
+/* Footer */
 .Github-footer {
     width: 100px;
     height: 100px;
@@ -572,3 +579,4 @@ hr {
     margin-bottom: -600px;
     float: left;
 }
+/* footer */
