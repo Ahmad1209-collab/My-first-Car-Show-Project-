@@ -2,13 +2,13 @@
 h1 {
     text-align: center;
     text-decoration: brown;
-    font-size: 170px;
+    font-size: 90px;
     font: bolder;
     color: rgb(255, 255, 255);
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
     margin-left: -900px;
-    margin-top: -30px;
+    margin-top: -10px;
 }
 .title:hover
 {
@@ -58,39 +58,39 @@ h1 {
 }
 .logo {
     float: left;
-    width: 220px;
-    height: 170px;
+    width: 65px;
+    height: 60px;
     border-radius: 60px;
-    margin-left: 50px;
+    margin-left: 20px;
 }
 hr {
     background: linear-gradient(to right, red, blue, yellow);
     width: 95%;
     height: 15px;
     background-color: rgb(47, 165, 57);
-    margin-top: 600px;
+    margin-top: 240px;
     margin-bottom: -30px;
 }
 .Company-name {
     color: rgb(215, 253, 0);
-    font-size: 50px;
-    margin-top: -680px;
-    margin-left: 10%;
+    font-size: 15px;
+    margin-top: -310px;
+    margin-left: 6%;
     font-family: 'Comforter', cursive;
 }
 .Bugatti-b {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
-    margin-left: 5%;
-    margin-top: 280px;
+    margin-left: 13%;
+    margin-top: 100px;
     color: white;
     border-color: black;
     border-style: none;
     font-family: 'Comforter', cursive;
 }
 .Lyken-Hypersport-a {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -102,7 +102,7 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Ford-GT-c {
-    font-size: 50px;
+    font-size: 20px;
     font-family: 'Comforter', cursive;
     border-radius: 10px;
     background-color: black;
@@ -114,7 +114,7 @@ hr {
     border-style: none;
 }
 .Corvette {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15xp;
@@ -126,7 +126,7 @@ hr {
     border-style: none;
 }
 .Koenigsegg-J {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -138,7 +138,7 @@ hr {
     border-style: none;
 }
 .Dodge-a {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     font-family: 'Comforter', cursive;
@@ -150,7 +150,7 @@ hr {
     border-style: none;
 }
 .Maclaren {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -162,7 +162,7 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Devel {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -174,7 +174,7 @@ hr {
     border-style: none;
 }
 .Mercedes {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -186,7 +186,7 @@ hr {
     border-style: none;
 }
 .Mclaren-GTR {
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 10px;
     background-color: black;
     margin-left: 15px;
@@ -281,257 +281,222 @@ hr {
 }
 /* header */
 /* Body*/
-.The-Subhead {
-    text-align: center;
-    font-size: 50px;
-    color: #ffffff;
-    font-family: 'Comforter', cursive;
-    @media (min-width: 992px)
-    margin-top: 9000px;
-}
 .Bugatti {
     float:right;
     flex-direction: row;
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left: 80%;
-    margin-top: -400px;
+    margin-top: -250px;
     border-radius: 80px;
     margin-right: 100px;
 }
 .Bugatti-Biography {
     float: left;
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Source Serif 4', sans-serif;
-    margin-top: 200px;
-    margin-right: 1300px;
+    margin-top: 150px;
+    margin-right: 800px;
     margin-left: 100px;
     color: white;
 }
 .white-car {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left:100px;
     border-radius: 80px;
-    margin-top: -450px;
+    margin-top: -280px;
 }
 .Lykon-Biography {
     font-family: 'Source Serif 4', sans-serif;
     float: right;
-    font-size: 40px;
-    margin-left: 1300px;
-    margin-top: 200px;
-    margin-right: 100px;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: 100px;
+    margin-right: 70px;
     color: white;
 }
 .Blue-ford {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left:50px;
     border-radius: 80px;
-    margin-top: -450px;
+    margin-top: -300px;
     float:right;
     margin-right: 100px;
 }
 .Ford-GT-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float:left;
-    margin-right: 1300px;
-    margin-top: 300px;
+    margin-right: 900px;
+    margin-top: 100px;
     margin-left: 100px;
     color: white;
 }
 .Blue-corvete {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left:100px;
     border-radius: 80px;
-    margin-top: -600px;
+    margin-top: -350px;
 }
 .Corvete-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float: right;
-    margin-left: 1300px;
+    margin-left: 900px;
     margin-right: 100px;
-    margin-top: 200px;
+    margin-top: 100px;
     color: white;
 }
 .orange-Koenigsegg {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left:50px;
     border-radius: 80px;
     float: right;
-    margin-top: -450px;
+    margin-top: -300px;
     margin-right: 100px;
 }
 .Koenigsegg-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float:left;
-    margin-right: 1300px;
-    margin-top: 300px;
-    margin-right: 1300px;
+    margin-right: 900px;
+    margin-top: 200px;
+    margin-right: 900px;
     margin-left: 100px;
     color: white;
 }
 .red-hellcat {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left:50px;
     border-radius: 80px;
-    margin-top: -500px;
+    margin-top: -300px;
 }
 .Hellcat-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float: right;
-    margin-left: 1300px;
+    margin-left: 900px;
     margin-right: 100px;
-    margin-top: 200px;
+    margin-top: 100px;
     color: white;
 }
 .orange-mclaren {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left: 50px;
     border-radius: 80px;
     margin-right: 100px;
     float: right;
-    margin-top: -450px;
+    margin-top: -270px;
 }
 .Mclaren-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float:left;
-    margin-right: 1300px;
-    margin-top: 300px;
-    margin-right: 1300px;
+    margin-right: 900px;
+    margin-top: 150px;
     margin-left: 100px;
-    color: white;
-}
-.red-Koenigsegg {
-    width: 1100px;
-    height: 700px;
-    margin-left:50px;
-    border-radius: 80px;
-    margin-top: 300px;
-}
-.Red-Koenigsegg-Biography {
-    font-size: 40px;
-    float: right;
-    margin-left: 1300px;
-    margin-right: 100px;
-    margin-top: 200px;
     color: white;
 }
 .white-devil {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left: 50px;
     border-radius: 80px;
     margin-right: 100px;
     float: left;
-    margin-top: -450px;
+    margin-top: -300px;
 }
 .Devil-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float:right;
-    margin-right: 1300px;
-    margin-top: 300px;
     margin-right: 100px;
-    margin-left: 1300px;
+    margin-top: 150px;
+    margin-right: 100px;
+    margin-left: 900px;
     color: white;
 }
 .white-mercedez {
-    width: 1100px;
-    height: 700px;
+    width: 650px;
+    height: 400px;
     margin-left:50px;
     border-radius: 80px;
-    margin-top: -500px;
+    margin-top: -600px;
     float: right;
-    margin-bottom: 100px;
 }
 .White-mercedez-Biography {
-    font-size: 40px;
+    font-size: 20px;
     float: left;
     margin-left: 100px;
-    margin-right: 1300px;
-    margin-top: 200px;
+    margin-right: 900px;
+    margin-top: 150px;
     color: white;
+    margin-bottom: 200px;
 }
 .Bugatti-name:hover{
     color: rgb(16, 95, 27);
     font-size-adjust: 50px;
 }
 .Bugatti-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
     margin-left: 25%;
-    margin-bottom: -80px;
+    margin-bottom: -50px;
+    margin-top: 90px;
 }
 .Ford-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
-    margin-left: 30%; 
-    margin-bottom: -80px;
+    margin-left: 25%; 
+    margin-bottom: -50px;
     margin-top: 100px;
 }
 .Corvette-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
     margin-left: 60%;
-    margin-bottom: -80px;
-    margin-top: 900px;
+    margin-bottom: -50px;
+    margin-top: 400px;
 }
 .Jesko-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
-    margin-left: 30%; 
+    margin-left: 20%; 
     margin-bottom: -80px;
+    margin-top: 90px;
 }
 .Charger-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
     margin-left: 60%;
-    margin-bottom: -80px;
-    margin-top: 900px;
-}
-.Maclaren-N {
-    font-size: 90px;
-    color: white;
-    margin-left: 30%; 
-    margin-bottom: -80px;
+    margin-bottom: -50px;
+    margin-top: 600px;
 }
 .Devel-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
-    margin-left: 60%;
+    margin-left: 65%;
     margin-bottom: -80px;
-    margin-top: 900px;
+    margin-top: 500px;
 }
 .AMG-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
-    margin-left: 15%; 
+    margin-left: 8%; 
     margin-bottom: -80px;
-    margin-top: 900px;
-}
-.GTR-N {
-    font-size: 90px;
-    color: white;
-    margin-left: 60%;
-    margin-bottom: -80px;
-    margin-top: 900px;
+    margin-top: 500px;
 }
 .Lyken-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
     margin-left: 60%;
-    margin-bottom: -80px;
-    margin-top: 800px;
+    margin-bottom: -50px;
+    margin-top: 500px;
 }
 .Mclaren-N {
-    font-size: 90px;
+    font-size: 50px;
     color: white;
-    margin-left: 30%; 
+    margin-left: 20%; 
     margin-bottom: -80px;
     margin-top: 100px;
 }
@@ -631,7 +596,7 @@ hr {
 .Charger-l {
     text-decoration: none;
 }
-.Corvtte-N:hover {
+.Corvette-N:hover {
     color: red;
 }
 .Corvette-l {
@@ -668,83 +633,83 @@ body {
     background: rgb(0, 0, 0);
 }
 .Github-footer {
-    width: 270px;
-    height: 270px;
+    width: 100px;
+    height: 100px;
     border-radius: 360px;
     float: center;
     margin-left: 50%;
     margin-right: 45%;
-    margin-bottom: -245px;
+    margin-bottom: -180px;
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
-    width: 175px;
-    margin-left: 45%;
-    margin-bottom: -175px;
+    width: 100px;
+    margin-left: 43.5%;
+    margin-bottom: -165px;
     box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
 }
 .Instagram-Account-mine {
     border-radius: 2000px;
-    width: 175px;
-    margin-left: 57%;
-    margin-bottom: -160px;
+    width: 100px;
+    margin-left: 56.5%;
+    margin-bottom: -145px;
     box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
 }
 .Instagram-Account-mine:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Facebook-Account-mine:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(25, 0, 255, 0.6);
 }
 .Github-footer:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Form-input {
     margin-bottom: -200px;
-    margin-top: 80px;
+    margin-top: -50px;
     margin-left: 70%;
-    width: 700px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     background: rgb(10, 28, 36);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     border-color:white ;
     border-width: -10px;
 }
 .Email-input {
     margin-bottom: -200px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 70%;
-    width: 700px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     background: rgb(10, 28, 36);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     border-color:white ;
     border-width: -10px;
 }
 .Text-Area {
-    width: 700px;
-    height: 400px;
-    margin-top: 50px;
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
     margin-left: 70%;
     background: rgb(10, 28, 36);
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
 }
 .submit-button {
-    width: 160px;
-    height: 50px;
+    width: 130px;
+    height: 40px;
     background: rgb(24, 162, 221);
     margin-left: 70%;
     margin-top: 20px;
-    font-size: 25px;
+    font-size: 20px;
     border-radius: 60px;
     color: White;
     border-color: black;
@@ -754,48 +719,38 @@ body {
     padding-left: 2px;
     
 }
-.Gmail-logo {
-    width: 175px;
-    margin-left: 78%;
-    margin-top: -900px;
-    margin-bottom: -60px;
-}
 .logo-footer {
     border-radius: 350px;
-    width: 700px;
-    height: 600px;
-    margin-top: 200px;
+    width: 220px;
+    height: 200px;
+    margin-top: 100px;
     margin-bottom: -700px;
     float: left;
     margin-left: 100px;
-    margin-right: 1300px;
 }
 .Description {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -32.5%;
-    margin-top: 400px;
-    margin-right: 1300px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 150px;
     float: left;
 }
 .Description-F {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -49%;
-    margin-top: 470px;
-    margin-right: 90px;
+    font-size: 20px;
+    margin-left: -9.5%;
+    margin-top: 160px;
     float: left;
 }
 .Description-S {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -49%;
-    margin-top: 540px;
+    font-size: 20px;
+    margin-left: -9.9%;
+    margin-top: 175px;
     margin-bottom: -600px;
-    margin-right: 1300px;
     float: left;
 }
 /* footer */
