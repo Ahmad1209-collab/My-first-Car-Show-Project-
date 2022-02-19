@@ -460,83 +460,83 @@ hr {
 /* Interior */
 /* Footer */
 .Github-footer {
-    width: 270px;
-    height: 270px;
+    width: 100px;
+    height: 100px;
     border-radius: 360px;
     float: center;
     margin-left: 50%;
     margin-right: 45%;
-    margin-bottom: -245px;
+    margin-bottom: -180px;
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
-    width: 175px;
-    margin-left: 45%;
-    margin-bottom: -175px;
+    width: 100px;
+    margin-left: 43.5%;
+    margin-bottom: -165px;
     box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
 }
 .Instagram-Account-mine {
     border-radius: 2000px;
-    width: 175px;
-    margin-left: 57%;
-    margin-bottom: -160px;
+    width: 100px;
+    margin-left: 56.5%;
+    margin-bottom: -145px;
     box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
 }
 .Instagram-Account-mine:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Facebook-Account-mine:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(25, 0, 255, 0.6);
 }
 .Github-footer:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     box-shadow: 0 30px 45px -15px rgba(255, 0, 0, 0.6);
 }
 .Form-input {
     margin-bottom: -200px;
-    margin-top: 80px;
+    margin-top: -50px;
     margin-left: 70%;
-    width: 700px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     background: rgb(10, 28, 36);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     border-color:white ;
     border-width: -10px;
 }
 .Email-input {
     margin-bottom: -200px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 70%;
-    width: 700px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     background: rgb(10, 28, 36);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     border-color:white ;
     border-width: -10px;
 }
 .Text-Area {
-    width: 700px;
-    height: 400px;
-    margin-top: 50px;
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
     margin-left: 70%;
     background: rgb(10, 28, 36);
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(255, 255, 255);
 }
 .submit-button {
-    width: 160px;
-    height: 50px;
+    width: 130px;
+    height: 40px;
     background: rgb(24, 162, 221);
     margin-left: 70%;
     margin-top: 20px;
-    font-size: 25px;
+    font-size: 20px;
     border-radius: 60px;
     color: White;
     border-color: black;
@@ -546,48 +546,38 @@ hr {
     padding-left: 2px;
     
 }
-.Gmail-logo {
-    width: 175px;
-    margin-left: 78%;
-    margin-top: -900px;
-    margin-bottom: -60px;
-}
 .logo-footer {
     border-radius: 350px;
-    width: 700px;
-    height: 600px;
-    margin-top: 200px;
+    width: 220px;
+    height: 200px;
+    margin-top: 100px;
     margin-bottom: -700px;
     float: left;
     margin-left: 100px;
-    margin-right: 1300px;
 }
 .Description {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -32.5%;
-    margin-top: 400px;
-    margin-right: 1300px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 150px;
     float: left;
 }
 .Description-F {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -49%;
-    margin-top: 470px;
-    margin-right: 90px;
+    font-size: 20px;
+    margin-left: -9.5%;
+    margin-top: 175px;
     float: left;
 }
 .Description-S {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 50px;
-    margin-left: -49%;
-    margin-top: 540px;
+    font-size: 20px;
+    margin-left: -9.9%;
+    margin-top: 205px;
     margin-bottom: -600px;
-    margin-right: 1300px;
     float: left;
 }
 /* Footer */
