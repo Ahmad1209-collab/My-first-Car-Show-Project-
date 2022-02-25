@@ -1,16 +1,16 @@
 /* head */
 .logo-in-Bugatti-page {
     float: left;
-    width: 65px;
-    height: 60px;
+    width: 15%;
+    height: 10%;
     border-radius: 60px;
     margin-left: 20px;
 }
 .Company-name {
     color: rgb(215, 253, 0);
-    font-size: 15px;
-    margin-top: -115px;
-    margin-left: 6%;
+    font-size: 10%;
+    margin-top: -220px;
+    margin-left: 22%;
     font-family: 'Comforter', cursive;
 }
 body {
@@ -21,23 +21,23 @@ hr {
     width: 95%;
     height: 9px;
     background-color: rgb(47, 165, 57);
-    margin-top: 20px;
+    margin-top: 20%;
     margin-bottom: -30px;
 }
 .head-title {
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 200%;
     color: #ffffff;
-    margin-top: 100px;
+    margin-top: 30%;
     font-family: 'Comforter', cursive;
     @media (min-width: 992px)
 }
 .Home-b {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 13%;
+    margin-left: -17%;
     margin-top: 100px;
     color: white;
     border-color: black;
@@ -45,10 +45,10 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Lyken-Hypersport-a {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15px;
+    margin-left: 1%;
     margin-top: 100px;
     color: white;
     border-width: -20px;
@@ -57,11 +57,11 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Ford-GT-c {
-    font-size: 20px;
+    font-size: 10%;
     font-family: 'Comforter', cursive;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15px;
+    margin-left: 1%;
     margin-top: 100px;
     color: white;
     border-width: -20px;
@@ -69,10 +69,10 @@ hr {
     border-style: none;
 }
 .Corvette {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15xp;
+    margin-left: 1%;
     margin-top: 100px;
     color: white;
     border-width: -20px;
@@ -81,10 +81,10 @@ hr {
     border-style: none;
 }
 .Koenigsegg-J {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15px;
+    margin-left: 1%;
     margin-top: 100px;
     font-family: 'Comforter', cursive;
     color: white;
@@ -93,11 +93,11 @@ hr {
     border-style: none;
 }
 .Dodge-a {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
     font-family: 'Comforter', cursive;
-    margin-left: 15px;
+    margin-left: 13%;
     margin-top: 100px;
     color: white;
     border-width: -20px;
@@ -105,10 +105,10 @@ hr {
     border-style: none;
 }
 .Maclaren {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15px;
+    margin-left: 1%;
     margin-top: 100px;
     color: white;
     border-width: -20px;
@@ -117,10 +117,10 @@ hr {
     font-family: 'Comforter', cursive;
 }
 .Devel {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15px;
+    margin-left: 1%;
     margin-top: 100px;
     font-family: 'Comforter', cursive;
     color: white;
@@ -129,10 +129,10 @@ hr {
     border-style: none;
 }
 .Mercedes {
-    font-size: 20px;
+    font-size: 10%;
     border-radius: 10px;
     background-color: black;
-    margin-left: 15px;
+    margin-left: 1%;
     font-family: 'Comforter', cursive;
     margin-top: 100px;
     color: white;
@@ -179,9 +179,9 @@ hr {
 /* head */
 /* Body */
 .Bugatti-F {
-    width: 1400px;
-    height: 900px;
-    margin-left: 12.5%;
+    width: 100%;
+    height: 50%;
+    margin-left: 0.5%;
     margin-top: 100px;
     margin-right: 15%;
     border-radius: 30px;
@@ -190,9 +190,9 @@ hr {
     transform: scale(1.1);
 }
 .Bugatti-S {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 50px;
     border-radius: 30px;
 }
@@ -200,8 +200,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-T {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -209,8 +209,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-FO {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -218,9 +218,9 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-FI {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -228,8 +228,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-SI {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -237,8 +237,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-SE {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -246,9 +246,9 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-EI {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -256,8 +256,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Ni {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -265,8 +265,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Te {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -274,9 +274,9 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-El {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -284,8 +284,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Tw {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -293,8 +293,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-TH {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -302,9 +302,9 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-FH {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -312,8 +312,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Fe {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -321,8 +321,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Sh {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -330,9 +330,9 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Sn {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -341,8 +341,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-En {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -351,8 +351,8 @@ hr {
     transform: scale(1.5);
 }
 .Bugatti-Ew {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -364,24 +364,24 @@ hr {
 /* Interior */
 .S-Interior {
     color: white;
-    font-size: 60px;
+    font-size: 150%;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 10%;
     font-family: 'Comforter', cursive;
-    margin-top: -80px;
+    margin-top: -30%;
 }
 .Interior-F {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     border-radius: 30px;
 }
 .Interior-F:hover {
     transform: scale(1.5);
 }
 .Interior-S {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -389,8 +389,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-T {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -398,9 +398,9 @@ hr {
     transform: scale(1.5);
 }
 .Interior-FO {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
 }
@@ -408,8 +408,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-FI {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -417,8 +417,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-SI {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
 }
@@ -426,9 +426,9 @@ hr {
     transform: scale(1.5);
 }
 .Interior-SV {
-    width: 450px;
-    height: 300px;
-    margin-left: 13%;
+    width: 30%;
+    height: 20%;
+    margin-left: 3%;
     margin-top: 25px;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -437,8 +437,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-EI {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -447,8 +447,8 @@ hr {
     transform: scale(1.5);
 }
 .Interior-NI {
-    width: 450px;
-    height: 300px;
+    width: 30%;
+    height: 20%;
     margin-left: 0.5%;
     border-radius: 30px;
     margin-bottom: 150px;
@@ -459,8 +459,8 @@ hr {
 /* Interior */
 /* Footer */
 .Github-footer {
-    width: 100px;
-    height: 100px;
+    width: 15%;
+    height: 15%;
     border-radius: 360px;
     float: center;
     margin-left: 50%;
@@ -469,15 +469,15 @@ hr {
 }
 .Facebook-Account-mine {
     border-radius: 2000px;
-    width: 100px;
-    margin-left: 43.5%;
+    width: 15%;
+    margin-left: 34%;
     margin-bottom: -165px;
     box-shadow: 0 20px 20px -17px rgb(252, 252, 252);
 }
 .Instagram-Account-mine {
     border-radius: 2000px;
-    width: 100px;
-    margin-left: 56.5%;
+    width: 15%;
+    margin-left: 67%;
     margin-bottom: -145px;
     box-shadow: 0 20px 20px -17px rgb(253, 0, 0);
 }
@@ -498,8 +498,8 @@ hr {
 }
 .Form-input {
     margin-bottom: -200px;
-    margin-top: -50px;
-    margin-left: 70%;
+    margin-top: 50%;
+    margin-left: 5%;
     width: 300px;
     height: 30px;
     background: rgb(10, 28, 36);
@@ -510,8 +510,8 @@ hr {
 }
 .Email-input {
     margin-bottom: -200px;
-    margin-top: 20px;
-    margin-left: 70%;
+    margin-top: 5%;
+    margin-left: 5%;
     width: 300px;
     height: 30px;
     background: rgb(10, 28, 36);
@@ -521,10 +521,10 @@ hr {
     border-width: -10px;
 }
 .Text-Area {
-    width: 400px;
+    width: 300px;
     height: 300px;
-    margin-top: 20px;
-    margin-left: 70%;
+    margin-top: 5%;
+    margin-left: 5%;
     background: rgb(10, 28, 36);
     font-size: 20px;
     color: rgb(255, 255, 255);
@@ -533,7 +533,7 @@ hr {
     width: 130px;
     height: 40px;
     background: rgb(24, 162, 221);
-    margin-left: 70%;
+    margin-left: 5%;
     margin-top: 20px;
     font-size: 20px;
     border-radius: 60px;
@@ -546,36 +546,36 @@ hr {
     
 }
 .logo-footer {
-    border-radius: 350px;
-    width: 220px;
-    height: 200px;
-    margin-top: 100px;
+    border-radius: 50%;
+    width: 30%;
+    height: 90%;
+    margin-top: 10%;
     margin-bottom: -700px;
     float: left;
-    margin-left: 100px;
+    margin-left: 1%;
 }
 .Description {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 20px;
-    margin-left: 20%;
-    margin-top: 150px;
+    font-size: 10%;
+    margin-left: 35%;
+    margin-top: 15%;
     float: left;
 }
 .Description-F {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 20px;
-    margin-left: -9.5%;
-    margin-top: 175px;
+    font-size: 10%;
+    margin-left: -23%;
+    margin-top: 19%;
     float: left;
 }
 .Description-S {
     color: white;
     font-family: 'Comforter', cursive;
-    font-size: 20px;
-    margin-left: -9.9%;
-    margin-top: 205px;
+    font-size: 10%;
+    margin-left: -23%;
+    margin-top: 23%;
     margin-bottom: -600px;
     float: left;
 }
